@@ -1,2 +1,4 @@
 node_modules/
 .idea/
+
+/MyCode/07-IntegrationWithJavaScript/Demo01/src/GlobalLogger.js
